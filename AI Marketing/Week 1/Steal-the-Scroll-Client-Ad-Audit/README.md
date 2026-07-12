@@ -21,5 +21,4 @@ working — then draft fresh angles for each platform.
 📄 [Full teardown (Google Doc)](https://docs.google.com/document/d/1UR7bgEDB1SArL5e3b8qlWJKcpXzrEyVz/edit?usp=sharing&ouid=113937199565547447879&rtpof=true&sd=true)
 
 ## Files in this folder
-- `ITCT_Ad_Teardown.docx` — the submitted deliverable
-- `screenshots/` — raw Meta Ad Library and Google Ads Transparency Center captures
+- `ITCT_Ad_Teardown.pdf` — the submitted deliverable
